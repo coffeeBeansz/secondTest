@@ -2,9 +2,8 @@ Hello I think this is a good code
 
 if: reading this line
 then: read the next line
+else: not going to happen
 
 hello
-
-else: not going to happen
 
 end.
