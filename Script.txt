@@ -1,0 +1,10 @@
+Hello I think this is a good code
+
+if: reading this line
+then: read the next line
+
+hello
+
+else: not going to happen
+
+end.
